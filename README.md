@@ -9,7 +9,7 @@ Posiçao Chegada Código Piloto   Nome Piloto     Qtde Voltas Completadas Tempo 
 3       033     R.BARRICHELLO   4       4:16.080        3       1:03.716        43,468  0:05.583
 4       023     M.WEBBER        4       4:17.722        4       1:04.216        43,191  0:08.972
 5       015     F.ALONSO        4       4:54.221        2       1:07.011        37,833  0:49.738
-6       011     S.VETTEL        3       6:27.276        3       1:18.097        21,557  2:40.754
+6       011     S.VETTEL        2       5:09.179        2       1:37.864        18,001  1:22.657
 
 Melhor volta da corrida:
 Piloto  Nº Volta        Tempo Volta     Velocidade média da volta
