@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gympass-test": {
+      "commandName": "Project",
+      "commandLineArgs": "racelog.txt"
+    }
+  }
+}

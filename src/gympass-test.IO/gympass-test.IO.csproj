@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>gympass_test.IO</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\gympass-test.core\gympass-test.core.csproj" />
+    <ProjectReference Include="..\gympass-test.IO.Abstractions\gympass-test.IO.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
