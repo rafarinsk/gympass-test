@@ -18,9 +18,12 @@ Piloto  Nº Volta        Tempo Volta     Velocidade média da volta
 
 Como executar
 --------
-O projeto principal foi feito em .Net Core 2.1
+O projeto principal foi feito em .Net Core 2.1.
+
 As bibliotecas foram feitas em .Net Standard 2.0
+
 O projeto de testes é um NUnit e para não utilizar bibliotecas de terceiros, não está feito com mocks mas sim com as implementações dos projetos.
+
 Para compilar, executar em linha de comando, na pasta da solução, em uma máquina capaz de compilar soluções .Net:
 ```text
 dotnet msbuild
